@@ -36,6 +36,12 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
+    addressable (2.5.0)
+      public_suffix (~> 2.0, >= 2.0.2)
+    alexa_skills_ruby (1.0.0)
+      activesupport (>= 4.2)
+      addressable (~> 2.5)
+      multi_json (~> 1.0)
     arel (6.0.4)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
@@ -75,6 +81,7 @@ GEM
     multi_json (1.12.1)
     nokogiri (1.7.0.1)
       mini_portile2 (~> 2.1.0)
+    public_suffix (2.0.5)
     rack (1.6.5)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -144,6 +151,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  alexa_skills_ruby
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
