@@ -1,0 +1,16 @@
+AgendaIntent	new Agenda
+AgendaIntent	start Agenda
+AgendaIntent	create Agenda
+AgendaIntent	begin Agenda
+AgendaIntent	build Agenda
+AgendaIntent	new a Agenda
+AgendaIntent	start a Agenda
+AgendaIntent	create a Agenda
+AgendaIntent	begin a Agenda
+AgendaIntent	build a Agenda
+AgendaIntent	new the Agenda
+AgendaIntent	start the Agenda
+AgendaIntent	create the Agenda
+AgendaIntent	begin the Agenda
+AgendaIntent	build the Agenda
+AgendaIntent	{STEPVALUE}

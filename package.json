@@ -1,0 +1,12 @@
+{
+  "name": "Agenda",
+  "version": "1.0.0",
+  "description": "build an agenda for reminders",
+  "main": "index.js",
+  "author": "alex anthopoulos",
+  "license": "Bloc",
+  "dependencies": {
+    "alexa-app": "^2.3.2",
+    "lodash": "^4.3.0"
+  }
+}
